@@ -1,0 +1,59 @@
+/* * {
+  font-family: "Josefin Sans", sans-serif;
+  list-style: none;
+  text-decoration: none;
+  scroll-behavior: smooth;
+  background-color: rgba(8, 8, 8, 255) !important;
+} */
+:root {
+  --bg-color: rgba(8, 8, 8, 255);
+  --secound-bg-color: #191919;
+  --text-color: #fff;
+  --secound-color: #c6c9d8bf;
+  --main-color: #f9004d;
+  --big-font: 7.3rem;
+  --h2-font: 4.2rem;
+  --p-font: 1.1rem;
+}
+.home {
+  height: 500px;
+  width: 100%;
+  background-color: rgba(8, 8, 8, 255);
+  text-align: center;
+}
+
+.portret-img {
+  margin-top: 90px;
+  margin-right: 200px;
+  width: 20%;
+  height: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.home-text {
+  font-size: var(--big-font);
+  color: var(--text-color);
+  margin-top: 180px;
+  width: 50%;
+  margin-left: 100px;
+}
+
+.home-text h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+span {
+  color: var(--main-color);
+}
+.home-text h3 {
+  font-size: 25px;
+  color: var(--text-color);
+  margin-bottom: 0px;
+}
+.home-text h4 {
+  color: var(--text-color);
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-top: 0px;
+}

@@ -1,0 +1,79 @@
+.expensive {
+  width: 1130px;
+  max-width: 95%;
+  /* margin: auto; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.fe-expensive {
+  height: auto;
+  width: 60%;
+  margin: auto;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  padding: 100px 0;
+  border-radius: 30px;
+  box-shadow: 1px 1px 59px 31px rgba(181, 63, 63, 0.69);
+  -webkit-box-shadow: 1px 1px 59px 31px rgba(181, 63, 63, 0.69);
+  -moz-box-shadow: 1px 1px 59px 31px rgba(181, 63, 63, 0.69);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.be-expensive {
+  height: auto;
+  width: 60%;
+  margin: auto;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  padding: 100px 0;
+  border-radius: 30px;
+  box-shadow: 1px 1px 59px 31px rgba(181, 63, 63, 0.69);
+  -webkit-box-shadow: 1px 1px 59px 31px rgba(181, 63, 63, 0.69);
+  -moz-box-shadow: 1px 1px 59px 31px rgba(181, 63, 63, 0.69);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.javascript {
+  height: auto;
+  width: 50px;
+  align-items: center;
+  padding-inline-end: 10px;
+  text-align: center;
+}
+.react {
+  height: auto;
+  width: 50px;
+  align-items: center;
+  padding-inline-end: 10px;
+}
+.html {
+  height: auto;
+  width: 50px;
+  align-items: center;
+  padding-inline-end: 10px;
+}
+.css {
+  height: 43px;
+  width: 37px;
+  align-items: center;
+  padding-inline-end: 10px;
+}
+.git {
+  height: auto;
+  width: 50px;
+  align-items: center;
+  padding-inline-end: 10px;
+}
+.github {
+  height: auto;
+  width: 50px;
+  align-items: center;
+  padding-inline-end: 10px;
+}
+.bootstrap {
+  height: 43px;
+  width: 37px;
+}
